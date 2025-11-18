@@ -1,3 +1,3 @@
 print("Git practice file")
 print("Learning Git step by step")
-print("making new branch")
+print("Update from the main branch")
